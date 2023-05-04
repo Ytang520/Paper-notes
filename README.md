@@ -17,3 +17,4 @@ Ordinal Regression:
   可进一步考察内容：
   - 对抗学习中acc下降的原因，或许与无法衡量robustness的样本质量有关 (是否为"好"样本，样本有多"好"
   - 进一步考察对抗学习和 pure attribute 之间关系（直接在 pure attribute 上进行扰动，而不是原始输入上扰动
+![对抗训练经典图](https://user-images.githubusercontent.com/125520425/236224216-7a791529-d984-4250-bee1-0671f63b4032.png)
