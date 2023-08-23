@@ -1,5 +1,5 @@
 # Paper-notes
-所读的论文，文章和其他有关的笔记，存档用
+部分论文，文章和其他有关的笔记，存档用
 
 Ordinal Regression:
 - [Rank consistent ordinal regression for neural networks with application to age estimation](https://zhuanlan.zhihu.com/p/624840505)
